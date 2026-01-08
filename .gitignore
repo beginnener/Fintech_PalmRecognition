@@ -1,5 +1,7 @@
 /Birjand University Mobile Palmprint Database (BMPD)
 /dataset_splitted
+/dataset__processed_split
+/dataset_processed
 /preprocessed_dataset
 /test_local
 /__pycache__
